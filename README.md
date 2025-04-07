@@ -14,6 +14,7 @@ This project is a SQL-based data analysis of Blinkit retail data, designed to de
 
 ## Data Source  
 Dataset from [Google Drive](https://drive.google.com/drive/folders/1jcM1HxhAunaWUPUkD_6v2rcni0wUJQOm) containing:  
+For this project , I will reference the video from Data Tutorials in terms of the scope of the project , however, the way my thought process or even some SQL queries will be different : https://www.youtube.com/watch?v=9A9jSvf6KZc&list=PLNr6y7fJuf_f9wCIPQTun4pMosf5e4fFk&index=6
 - Sales figures  
 - Item types and fat content  
 - Outlet characteristics  
