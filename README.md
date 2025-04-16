@@ -127,8 +127,6 @@ More complex queries involving `GROUP BY`, `PIVOT`, and joins are used for granu
 
 **Yeo Chee En Luke**  
 Statistician & Computer Scientist  
-📧 [Optional: insert email or LinkedIn link]  
-
 ---
 
 ## 🎥 Acknowledgements
